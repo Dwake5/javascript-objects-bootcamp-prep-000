@@ -1,1 +1,3 @@
-let playlist = {artists name: "song titles"}
+let playlist = {
+  artistNames: "song titles"
+}
